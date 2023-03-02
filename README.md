@@ -5,8 +5,10 @@
 
 
 I am a Professional Web Designer and Elementor Expart. Also an expert in E-COMMERCE websites, Responsive, and Professional Landing Pages or as you want. I have finished a long training from Codemanbd on Web Design and participated in many practical projects. There I gathered a lot of experience. Able to make functional and attractive web content to promote any product or business to millions of people worldwide. My work is exceptional because every work is done manually with my full responsibility and self-direction. Thanks.
-![Profile views](https://gpvc.arturio.dev/almumin-panna)  
+
 Skills: HTML / CSS / JS / REACT / PHP / PY
+
+![Profile views](https://gpvc.arturio.dev/almumin-panna)  
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning in Codemanbd 
