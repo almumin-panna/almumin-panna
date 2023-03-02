@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Al Mumin Panna
-#### Web Devoloper
 ![Web Devoloper](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/327786745_693677299201614_7559330506352326313_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGIjtAL8iNbCvk40-VUF1a77vQd7FQmyF7u9B3sVCbIXoZy68e7AzDlrk8AfwEHahW6TZI6Lk6_Bg12KhVsKh7d&_nc_ohc=yvtGuUWxtugAX_zR3FQ&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfAq6MFlH1et-nFRFPEPugtBOMg8LpNw4c5IVdgimmMxUg&oe=64063606)
+## Hi there 👋,
+I'm Al Mumin Panna
+#### Web Devoloper
+
 
 I am a Professional Web Designer and Elementor Expart. Also an expert in E-COMMERCE websites, Responsive, and Professional Landing Pages or as you want. I have finished a long training from Codemanbd on Web Design and participated in many practical projects. There I gathered a lot of experience. Able to make functional and attractive web content to promote any product or business to millions of people worldwide. My work is exceptional because every work is done manually with my full responsibility and self-direction. Thanks.
 
